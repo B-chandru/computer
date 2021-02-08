@@ -1,0 +1,28 @@
+
+   .jumbotron{
+     height:500px;
+     background: #0f1011;
+     color: white;
+       margin-top: 53px;
+   }
+   .navbar{
+    background:#29b6f6;
+   .nav-link{
+     margin-right: 10px;
+   &:hover{
+     background-color: #2989f6;
+     border-radius: 3px;
+     letter-spacing: 2px;
+   }
+}
+   }
+   footer{
+     color: white;
+   .fa{
+     font-size: 30px;
+     padding: 10px;
+    &:hover{
+     color: #2989f6;
+   }
+  }
+}
